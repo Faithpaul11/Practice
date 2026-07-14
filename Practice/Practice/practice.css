@@ -1,0 +1,17 @@
+.container {
+position: center;
+background-color: red;
+width: 60%;
+height: 60%;
+
+}
+.box1 {
+position: center;
+margintop:20%;
+margin-left: 20%;
+margin-right: 20%;
+margin-bottom: 20%;
+}
+body {
+
+}
